@@ -1,4 +1,4 @@
-# Testing topic 2
+# Testing topic
 This topic is to see if I can organise stuff in here and in a git repo.
 
 This is some more content from GitHUb
